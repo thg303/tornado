@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Vazir';
+  src:
+    url('fonts/vazir/Vazir.eot'),
+    url('fonts/vazir/Vazir.ttf') format('truetype'),
+    url('fonts/vazir/Vazir.woff') ;
+}
+@font-face {
+  font-family: 'Vazir';
+  src:
+    url('fonts/vazir/Vazir-Bold.eot'),
+    url('fonts/vazir/Vazir-Bold.ttf') format('truetype'),
+    url('fonts/vazir/Vazir-Bold.woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Shabnam';
+  src:
+    url('fonts/shabnam/Shabnam.eot'),
+    url('fonts/shabnam/Shabnam.ttf') format('truetype'),
+    url('fonts/shabnam/Shabnam.woff') ;
+}
+@font-face {
+  font-family: 'Shabnam';
+  src:
+    url('fonts/shabnam/Shabnam-Bold.eot'),
+    url('fonts/shabnam/Shabnam-Bold.ttf') format('truetype'),
+    url('fonts/shabnam/Shabnam-Bold.woff');
+  font-weight: bold;
+}
