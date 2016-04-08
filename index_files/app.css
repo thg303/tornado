@@ -1,0 +1,55 @@
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  -ms-flex-align: center;
+  align-items: center;
+  background: #fafafa;
+  color: #333;
+  display: -ms-flexbox;
+  display: flex;
+  font-family: Shabnam, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+h1 {
+  font-family: Shabnam;
+}
+
+.browsehappy {
+  background: #ccc;
+  color: #000;
+  margin: 0.2em 0;
+  padding: 0.2em 0;
+}
+
+.welcome {
+  background: #eee;
+  padding: 40px 60px;
+  text-align: center;
+}
+
+.movable {
+  cursor: move;
+}
+
+.credit {
+  direction: rtl;
+  font-size: 14px;
+  font-family: Vazir;
+  font-style: italic;
+}
+
+.credit span {
+  display: block;
+}
